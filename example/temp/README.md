@@ -1,0 +1,1 @@
+In your real application, this is the directory containing all of temporary files of your jelix app

@@ -1,0 +1,1 @@
+In your real application, this directory is able to contain all Jelix libraries.
