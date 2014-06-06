@@ -1,4 +1,4 @@
-FROM jelix/app-base
+FROM jelix/docker-jelix-app
 MAINTAINER Laurent Jouanneau <laurent@jelix.org>
 
 ENV JELIX_APP_DIR_NAME myapp

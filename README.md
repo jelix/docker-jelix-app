@@ -9,8 +9,8 @@ Docker environnement to develop a PHP application with Jelix. Based on Ubuntu.
 ### Install
 
 ```
-git clone https://github.com/Jelix/docker-app-base.git
-docker build -t jelix/app-base .
+git clone https://github.com/jelix/docker-jelix-app.git
+docker build -t jelix/docker-jelix-app .
 ```
 
 

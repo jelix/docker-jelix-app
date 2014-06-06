@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t jelix/app-base .
+docker build -t jelix/docker-jelix-app .
